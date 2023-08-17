@@ -30,7 +30,7 @@ class HomePage extends StatelessWidget {
           OutlinedButton.icon(
             style: OutlinedButton.styleFrom(foregroundColor: Colors.white),
             icon: const Icon(Icons.arrow_right_alt),
-            onPressed: startQuizg,
+            onPressed: startQuiz,
             label: const Text('Start Quiz'),
           )
         ],
